@@ -1,2 +1,3 @@
 name: Ryan Gillespie
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
